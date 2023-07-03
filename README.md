@@ -20,6 +20,5 @@ git pull
 Script Tidak Bisa Update Karena Ini Hanya Reapload Dari Orang Lain 
 ````
 
-#### contact me
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
+#### contact me[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+62 82196816220?text=Asalamualaikum+bang)

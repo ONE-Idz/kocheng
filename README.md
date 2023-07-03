@@ -19,7 +19,6 @@ git pull
 ````
 Script Tidak Bisa Update Karena Ini Hanya Reapload Dari Orang Lain 
 ````
-#### contact me
 ---   
 
 [![](https://img.shields.io/badge/Whatsapp-JUN-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282196816220?text=Permisi+Sob!)

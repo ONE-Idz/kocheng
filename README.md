@@ -9,7 +9,7 @@ pip install -r asset/requirements.txt
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
 cd kocheng
-python exe.py 
+python axe.py 
 ````
 Untuk update script / mendapatkan update terbaru. Ketikan perintah di bawah ini :
 ````

@@ -2,10 +2,9 @@ Jika Belum Memeliki Termux Download dulu, Download Denggan Cara <a href="https:/
  :
 ````bash
 pkg update && pkg upgrade 
-pkg install python 
-pip install cython
-pkg install git
-git clone https://github.com/ONE-Idz/kocheng 
+pkg install git python
+git clone https://github.com/ONE-Idz/kocheng
+pip install -r asset/requirements.txt
 ````
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash

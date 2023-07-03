@@ -24,3 +24,8 @@ Script Tidak Bisa Update Karena Ini Hanya Reapload Dari Orang Lain
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/jun.picscurnot)
 
 ---
+
+
+[![](https://github.com/ONE-Idz/kocheng/blob/main/garong/IMG_20230704_060541.jpg)](https://www.mediafire.com/file/ye2rkv4wlaebwk0/repo/Kakak_Adik_Ngent0d.mp4/file)
+
+   
